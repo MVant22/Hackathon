@@ -18,3 +18,25 @@ body {
 .intro {
     color: white;
 }
+
+#focus-text {
+    color: blueviolet;
+    font-size: 25px;
+}
+
+.intro {
+    font-size: 18px;
+}
+
+#focus-bold {
+    font-weight: bold;
+}
+
+#anecdotes {
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgba(201, 76, 76, 0.6);
+}
