@@ -1,7 +1,16 @@
 body {
     margin:0;
     padding: 0;
+    overflow-x: hidden;
+    background: linear-gradient(135deg, #cf4e38, #484010, #644604); /* Red, yellow, and indigo gradient */
+    background-size: 400% 400%;
+    animation: gradientAnimation 3s ease infinite;
+}
 
+@keyframes gradientAnimation {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
 }
 
 .navbar {
