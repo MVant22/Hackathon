@@ -27,3 +27,7 @@ body {
     transition: 0.5s;
 }
 
+.para:hover {
+    transform: scale(1.05);
+    transition: 0.5s;
+}
