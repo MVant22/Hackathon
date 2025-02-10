@@ -5,12 +5,6 @@ body {
     padding: 0;
 }
 
-.ticket-card:hover {
-    transform: scale(1.05);
-    transition: 0.3s;
-}
-
-
 .navbar {
     background-color: antiquewhite;
 }
@@ -22,3 +16,14 @@ body {
 .right-nav {
     padding-left: 400px;
 }
+
+.ticket-card:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+
+.para-1:hover {
+    transform: scale(1.05);
+    transition: 0.5s;
+}
+
