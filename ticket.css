@@ -1,0 +1,24 @@
+body {
+    /* background: url('./images/bg-ticket.jpg') no-repeat center center/cover; */
+    color: white;
+    margin:0;
+    padding: 0;
+}
+
+.ticket-card:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+
+
+.navbar {
+    background-color: antiquewhite;
+}
+
+.navbar-brand {
+    padding-left: 150px;
+}
+
+.right-nav {
+    padding-left: 400px;
+}
